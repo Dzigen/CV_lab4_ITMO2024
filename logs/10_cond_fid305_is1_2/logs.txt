@@ -1,0 +1,10 @@
+{'epoch': 1, 'gen_train_loss': 5.641515526442956, 'dis_train_loss': 0.9803854250565518, 'fid_score': 353.82040137408296, 'is_score': (1.2085435, 0.021139953), 'train_time': 89.12195, 'eval_time': 91.45316}
+{'epoch': 2, 'gen_train_loss': 5.892187620680302, 'dis_train_loss': 0.3664765921169489, 'fid_score': 350.93557541323014, 'is_score': (1.2001739, 0.01980117), 'train_time': 93.31296, 'eval_time': 93.28245}
+{'epoch': 3, 'gen_train_loss': 7.402145836215753, 'dis_train_loss': 0.03709325124847778, 'fid_score': 305.6242846157492, 'is_score': (1.2142704, 0.023363555), 'train_time': 100.33352, 'eval_time': 93.09211}
+{'epoch': 4, 'gen_train_loss': 7.3560538205962915, 'dis_train_loss': 0.1056910752770072, 'fid_score': 330.0023810605311, 'is_score': (1.59763, 0.062352676), 'train_time': 108.05435, 'eval_time': 92.93215}
+{'epoch': 5, 'gen_train_loss': 8.287574818310064, 'dis_train_loss': 0.08254195688709842, 'fid_score': 361.8002266357492, 'is_score': (1.2484168, 0.022512728), 'train_time': 118.90145, 'eval_time': 100.10279}
+{'epoch': 6, 'gen_train_loss': 9.410663253985918, 'dis_train_loss': 0.008406738598282368, 'fid_score': 329.1083673757195, 'is_score': (1.210201, 0.022664383), 'train_time': 133.00493, 'eval_time': 102.35561}
+{'epoch': 7, 'gen_train_loss': 8.904982292117216, 'dis_train_loss': 0.25057923637829976, 'fid_score': 340.1653808635305, 'is_score': (1.0989231, 0.00893328), 'train_time': 147.95649, 'eval_time': 100.93566}
+{'epoch': 8, 'gen_train_loss': 9.46910187563835, 'dis_train_loss': 0.03255208292168204, 'fid_score': 373.8373016260265, 'is_score': (1.4765337, 0.04421632), 'train_time': 162.89341, 'eval_time': 107.60895}
+{'epoch': 9, 'gen_train_loss': 9.270450569880314, 'dis_train_loss': 0.00042708653255921, 'fid_score': 391.35891379930683, 'is_score': (1.5023216, 0.04827304), 'train_time': 175.65786, 'eval_time': 107.33769}
+{'epoch': 10, 'gen_train_loss': 10.291143319545649, 'dis_train_loss': 0.00016020660991263215, 'fid_score': 349.64075717589924, 'is_score': (1.407212, 0.03848468), 'train_time': 178.62156, 'eval_time': 101.68696}

@@ -1,0 +1,1 @@
+{'epoch': 1, 'gen_train_loss': 0.584999469610361, 'dis_train_loss': 98.42349026343686, 'fid_score': 357.5546398185802, 'is_score': (1.0044845, 0.0012020625), 'train_time': 89.01118, 'eval_time': 93.8525}

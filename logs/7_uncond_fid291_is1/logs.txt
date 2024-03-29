@@ -1,0 +1,4 @@
+{'epoch': 1, 'gen_train_loss': 0.0009083352728403509, 'dis_train_loss': 10.8303780083855, 'fid_score': 326.29118180346444, 'is_score': (1.0697689, 0.012474074), 'train_time': 83.46063, 'eval_time': 94.39964}
+{'epoch': 2, 'gen_train_loss': 3.313706219952833e-05, 'dis_train_loss': 10.871629840288406, 'fid_score': 351.89554128551265, 'is_score': (1.0361212, 0.0050002453), 'train_time': 87.43221, 'eval_time': 93.60807}
+{'epoch': 3, 'gen_train_loss': 3.608884293125578e-05, 'dis_train_loss': 10.837829871055407, 'fid_score': 301.52387212264557, 'is_score': (1.0192425, 0.0029142895), 'train_time': 92.69624, 'eval_time': 89.95239}
+{'epoch': 4, 'gen_train_loss': 4.805457565336651e-05, 'dis_train_loss': 10.617164203753838, 'fid_score': 291.6393681080361, 'is_score': (1.0133497, 0.002334264), 'train_time': 101.21612, 'eval_time': 95.88985}

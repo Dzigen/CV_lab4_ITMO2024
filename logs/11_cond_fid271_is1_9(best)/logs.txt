@@ -1,0 +1,10 @@
+{'epoch': 1, 'gen_train_loss': 5.97683551047857, 'dis_train_loss': 0.4099084517563311, 'fid_score': 299.92806953468676, 'is_score': (1.7000766, 0.06438845), 'train_time': 107.52051, 'eval_time': 101.67168}
+{'epoch': 2, 'gen_train_loss': 5.402851441349739, 'dis_train_loss': 0.3123748530484497, 'fid_score': 310.76534849211833, 'is_score': (1.3024489, 0.03131031), 'train_time': 113.92321, 'eval_time': 103.08278}
+{'epoch': 3, 'gen_train_loss': 5.045995954137582, 'dis_train_loss': 0.1868203685660727, 'fid_score': 304.7574525777243, 'is_score': (1.3217183, 0.034650203), 'train_time': 116.23447, 'eval_time': 98.78969}
+{'epoch': 4, 'gen_train_loss': 5.447089878412394, 'dis_train_loss': 0.07831560229496039, 'fid_score': 337.16043211612583, 'is_score': (1.559511, 0.056139067), 'train_time': 122.80838, 'eval_time': 97.87825}
+{'epoch': 5, 'gen_train_loss': 5.960105202518976, 'dis_train_loss': 0.041690441175328136, 'fid_score': 301.2911651443127, 'is_score': (1.343746, 0.031748425), 'train_time': 129.19781, 'eval_time': 97.69485}
+{'epoch': 6, 'gen_train_loss': 6.264772131274908, 'dis_train_loss': 0.031671238997706755, 'fid_score': 301.3549873955663, 'is_score': (1.2572205, 0.027912794), 'train_time': 130.55788, 'eval_time': 97.30922}
+{'epoch': 7, 'gen_train_loss': 6.824213824593103, 'dis_train_loss': 0.03881847607814192, 'fid_score': 295.6430445953921, 'is_score': (1.3312036, 0.030632015), 'train_time': 131.03481, 'eval_time': 92.27953}
+{'epoch': 8, 'gen_train_loss': 6.11908516409592, 'dis_train_loss': 0.19329734578693603, 'fid_score': 305.43047092981317, 'is_score': (1.5584079, 0.060526755), 'train_time': 137.97368, 'eval_time': 99.21287}
+{'epoch': 9, 'gen_train_loss': 4.84920845218958, 'dis_train_loss': 0.30920908591174223, 'fid_score': 288.3660906310021, 'is_score': (1.2625297, 0.036730904), 'train_time': 148.80617, 'eval_time': 92.20126}
+{'epoch': 10, 'gen_train_loss': 4.385897189426498, 'dis_train_loss': 0.606268459957881, 'fid_score': 271.83929731700937, 'is_score': (1.9282695, 0.13404301), 'train_time': 152.89297, 'eval_time': 94.28808}

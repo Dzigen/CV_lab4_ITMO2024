@@ -1,0 +1,18 @@
+{
+  "gen_lr": 0.0001,
+  "gen_betas": [
+    0.5,
+    0.999
+  ],
+  "dis_lr": 1e-07,
+  "dis_betas": [
+    0.5,
+    0.999
+  ],
+  "epochs": 10,
+  "batch": 64,
+  "device": "cuda",
+  "run_name": "7",
+  "model_type": "unconditional",
+  "inceptionv3_batch": 16
+}

@@ -1,0 +1,2 @@
+{'epoch': 1, 'gen_train_loss': 0.0009013189994850388, 'dis_train_loss': 11.76456187168757, 'fid_score': 390.9874803104403, 'is_score': (1.0072997, 0.0022421845), 'train_time': 90.85964, 'eval_time': 91.55627}
+{'epoch': 2, 'gen_train_loss': 7.217908716210075e-06, 'dis_train_loss': 12.341848474282484, 'fid_score': 370.601678213946, 'is_score': (1.017271, 0.0048747193), 'train_time': 86.61121, 'eval_time': 90.27915}

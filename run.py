@@ -41,6 +41,8 @@ SAVE_DIR = f"{LOGS_DIR}/{learn_config.run_name}"
 PLOTS_DIR = f'{SAVE_DIR}/plots'
 BEST_MODEL_SAVE_PATH = f"{SAVE_DIR}/best_model.pt"
 LAST_MODEL_SAVE_PATH = f"{SAVE_DIR}/last_model.pt"
+BEST_DIS_SAVE_PATH = f"{SAVE_DIR}/best_dis_model.pt"
+LAST_DIS_SAVE_PATH = f"{SAVE_DIR}/last_dis_model.pt"
 LOGS_PATH = f"{SAVE_DIR}/logs.txt"
 os.mkdir(SAVE_DIR)
 os.mkdir(PLOTS_DIR)
@@ -122,8 +124,10 @@ for i in range(learn_config.epochs):
 
 
     if fid_score <= best_score:
+        print("Saving new best model!")
         best_score = fid_score
         torch.save(gen_model.state_dict(), BEST_MODEL_SAVE_PATH)
+        torch.save(dis_model.state_dict(), BEST_DIS_SAVE_PATH)
 
     #
     ml_gen_train.append(np.mean(gen_losses))
@@ -144,3 +148,4 @@ for i in range(learn_config.epochs):
         logfd.write(str(epoch_log) + '\n')
 
 torch.save(gen_model.state_dict(), LAST_MODEL_SAVE_PATH)
+torch.save(dis_model.state_dict(), LAST_DIS_SAVE_PATH)

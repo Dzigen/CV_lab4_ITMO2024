@@ -86,7 +86,12 @@ def evaluate(gen_model, real_loader, real_dataset_size, bs, device):
     print("Calculation of FID...")
     fake_dataset = CustomFakeDataset(gen_model, real_dataset_size, FID_PREPROCESSOR, device)
     fake_loader = DataLoader(fake_dataset, batch_size=bs, shuffle=False)
-    fid_value = calculate_fid(real_loader, fake_loader, real_dataset_size, bs)
+
+    try:
+        fid_value = calculate_fid(real_loader, fake_loader, real_dataset_size, bs)
+    except ValueError:
+        print("Imaginary number!")
+        fid_value = 1000000000
 
     torch.cuda.empty_cache()
     gc.collect()

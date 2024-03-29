@@ -1,0 +1,10 @@
+{'epoch': 1, 'gen_train_loss': 0.09376520025305068, 'dis_train_loss': 3.6525909266410728, 'fid_score': 309.9214398368292, 'is_score': (1.0184366, 0.002791718), 'train_time': 109.17607, 'eval_time': 108.29843}
+{'epoch': 2, 'gen_train_loss': 0.5239060216654952, 'dis_train_loss': 2.4719751972036486, 'fid_score': 297.824551363999, 'is_score': (1.0085459, 0.0015148113), 'train_time': 108.26056, 'eval_time': 101.01553}
+{'epoch': 3, 'gen_train_loss': 1.754700715152117, 'dis_train_loss': 0.5806215741456702, 'fid_score': 337.49471680160644, 'is_score': (1.0025729, 0.0004128765), 'train_time': 97.79817, 'eval_time': 89.26606}
+{'epoch': 4, 'gen_train_loss': 2.887779767314593, 'dis_train_loss': 0.16512332055478907, 'fid_score': 329.4120908598313, 'is_score': (1.0013375, 0.00018801219), 'train_time': 102.75072, 'eval_time': 90.37912}
+{'epoch': 5, 'gen_train_loss': 3.3539069356062474, 'dis_train_loss': 0.09283654394750603, 'fid_score': 302.0139815669099, 'is_score': (1.0043137, 0.00086347194), 'train_time': 115.44338, 'eval_time': 93.79462}
+{'epoch': 6, 'gen_train_loss': 4.097142376578772, 'dis_train_loss': 0.04594614306608072, 'fid_score': 289.5954012322254, 'is_score': (1.0106462, 0.0029872907), 'train_time': 123.07523, 'eval_time': 100.27859}
+{'epoch': 7, 'gen_train_loss': 4.675479681063921, 'dis_train_loss': 0.023444029060789406, 'fid_score': 334.94792338754866, 'is_score': (1.0061227, 0.0011364995), 'train_time': 133.91449, 'eval_time': 94.73172}
+{'epoch': 8, 'gen_train_loss': 5.151173646633442, 'dis_train_loss': 0.013921372055893956, 'fid_score': 328.18355158506637, 'is_score': (1.0023673, 0.00037229428), 'train_time': 143.06091, 'eval_time': 95.27457}
+{'epoch': 9, 'gen_train_loss': 5.512467989554772, 'dis_train_loss': 0.00914321618918807, 'fid_score': 295.5524251901049, 'is_score': (1.0019823, 0.00026817774), 'train_time': 139.12012, 'eval_time': 97.52236}
+{'epoch': 10, 'gen_train_loss': 5.849516501029332, 'dis_train_loss': 0.00618814504541194, 'fid_score': 289.17418699297025, 'is_score': (1.0010163, 0.00014108572), 'train_time': 150.39271, 'eval_time': 95.83136}

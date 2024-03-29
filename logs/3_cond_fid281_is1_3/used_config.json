@@ -1,5 +1,5 @@
 {
-  "gen_lr": 1e-06,
+  "gen_lr": 5e-05,
   "gen_betas": [
     0.5,
     0.999
@@ -9,9 +9,10 @@
     0.5,
     0.999
   ],
-  "epochs": 1,
+  "epochs": 10,
   "batch": 64,
   "device": "cuda",
-  "run_name": "1",
-  "model_type": "conditional"
+  "run_name": "3",
+  "model_type": "conditional",
+  "inceptionv3_batch": 16
 }
