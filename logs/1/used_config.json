@@ -1,0 +1,17 @@
+{
+  "gen_lr": 1e-06,
+  "gen_betas": [
+    0.5,
+    0.999
+  ],
+  "dis_lr": 1e-05,
+  "dis_betas": [
+    0.5,
+    0.999
+  ],
+  "epochs": 1,
+  "batch": 64,
+  "device": "cuda",
+  "run_name": "1",
+  "model_type": "conditional"
+}

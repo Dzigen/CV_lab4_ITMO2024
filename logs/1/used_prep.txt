@@ -1,0 +1,5 @@
+
+=======EMBEDDER_ARCH=======
+Compose(
+    ToTensor()
+)
